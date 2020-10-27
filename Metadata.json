@@ -1,0 +1,20 @@
+{
+    "Author": "Trevor Sullivan [MVP]",
+    "ContentSize": 801,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-twitter-bot/master/Tweet-PowerShellTips.ps1",
+    "DownloadCount": 950,
+    "Id": "PowerShell-Twitter-Bot-9e9b8603",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 409,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-4-12T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "You can use PowerShell to act as a Twitter bot very easily! This example PowerShell script leverages the PoshTwit PowerShell module, available on the PowerShell Gallery, to send tweets. There are only two commands in the PoshTwit module, and one of them is entirely optional.",
+    "Title": "PowerShell Twitter Bot",
+    "UpdatedDate": "2016-4-12T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-twitter-bot",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
